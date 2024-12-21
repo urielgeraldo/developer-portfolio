@@ -72,9 +72,10 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
-
+import mariadb from '../assets/svg/skills/mariadb.svg'
+import fastapi from '../assets/svg/skills/fastapi.svg'
 import canva from '../assets/svg/skills/canva.svg'
-
+import flask from '../assets/svg/skills/flask.png'
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
@@ -227,6 +228,12 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'mariadb':
+            return mariadb;
+        case 'fastapi':
+            return fastapi;
+        case 'flask':
+            return flask;
         default:
             break;
     }

@@ -1,6 +1,6 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    title: "About me",
+    description1: "Hi! I'm Uriel Geraldo, a computer systems engineer with a strong passion for web development.",
+    description2: "I specialize in building dynamic and user-friendly applications using Python frameworks like Flask, with a particular focus on front-end technologies. I enjoy creating intuitive and visually engaging interfaces that enhance user experiences. My approach combines technical expertise with a keen eye for design, ensuring that every project is both functional and aesthetically pleasing. I’m always eager to learn and embrace new challenges, leveraging technology to solve real-world problems effectively. Let’s connect and bring your ideas to life!",
     image: 2
 }
