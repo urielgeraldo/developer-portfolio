@@ -3,27 +3,19 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'CCNA: Switching, Routing, and Wireless Essentials',
+            details : 'The earner has a foundation in switching operations, wired and wireless LAN configuration using security best practices, redundancy protocols, and developed problem-solving skills.',
+            date : 'Dec 20, 2023',
+            field : 'Networking',
+            image : 'https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        },
-        {
-            id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'AWS Academy Cloud Foundations',
+            details : 'The AWS Academy Cloud Foundations Badge is a certification that validates foundational knowledge in Amazon Web Services (AWS) cloud technologies and services. This badge demonstrates an understanding of key concepts such as cloud computing, storage, networking, and security, providing a solid foundation for exploring and working with AWS services.',
+            date : 'May 31, 2023',
+            field : 'Cloud Computing',
+            image : 'https://media.licdn.com/dms/image/v2/D562DAQFXyPF4kDcrLw/profile-treasury-document-cover-images_800/profile-treasury-document-cover-images_800/0/1732786198767?e=1735351200&v=beta&t=2uxcqvAly3ykJ_9LqOOIUwZCCryibxMlq0vNdVv_WhI'
         }
 
     ]
